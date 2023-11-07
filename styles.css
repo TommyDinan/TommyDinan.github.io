@@ -17,3 +17,18 @@ h1 {
     width: 200px;
     padding: 10px;
 }
+a {
+ text-decoration: none;
+ color: midnightblue;
+}
+.assign img {
+ margin: 10px; 
+ border: 2px solid midnightblue;
+}
+.assign {
+ border-radius: 20px; /* curved corners */
+}
+a:hover {
+ text-decoration: none;
+ color: salmon;
+}
